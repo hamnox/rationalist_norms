@@ -1,3 +1,48 @@
+Core Systems
+
+Minimal ZTD
+Reasons: see http://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/ for rationale
+
+Precondition: ability to notice and articulate things tugging on your attention
+Precondition: can jot down notes quickly and unobtrusively (e.g. on a small notebook or stack of index cards)
+Precondition: can keep some note-tool near you consistently throughout the day
+Trigger: tasks, ideas, projects, or other information that pops into your head\
+Action: Write it down
+
+Precondition: write down tasks, ideas, info, etc. that pops into your head throughout the day
+Precondition: have a to-do list
+Trigger: When you get to your desk or home
+Action: Empty all your notes into your master to-do list
+
+Precondition: Ability to make clean, time-limited decisions (I seriously recommend rolling a die when you can't decide)
+Precondition: A list you actually look at now and again, preferrably at the beginning of each day
+Trigger: Look at an item in your to-do list
+Action: If it takes 2 minutes or less then do it. Otherwise trash it, delegate it, file it, or put it on a specific reminder-list (such as a calendar) to do later.
+
+Precondition: Understand the concept of a big-rock ( http://zenhabits.net/big-rocks-first-double-your-productivity-this-week/ )
+Precondition: A short break somewhere in the week
+Precondition: Ability to be influenced by a set schedule or task-order
+Trigger: Notice it's a new week
+Action: List the big rocks you want to accomplish and schedule them first
+
+Precondition: A point in morning routine that can be added to
+Precondition: Ability to be influenced by a set schedule or task-order
+Trigger: Daily routine begins, (alternatively: look at to-do list)
+Action: Make a list of 1-3 Most Important Tasks and do them as early as possible
+
+
+Precondition: Control over distractions (digital pings, in-person interruptions, clutter)
+Precondition: Dedicated concentration time
+Trigger: Decide to get working on a task
+Action: Remove distractions. Pick ONE task, Set a timer. Write down interruptions to deal with after instead of responding to them in the moment
+
+
+
+
+
+
+
+
 Entry level habits to consider cultivating:
 
 Trigger: Notice that an emotional state has been relevant to things you prefer or disprefer
